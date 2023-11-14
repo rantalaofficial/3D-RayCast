@@ -1,5 +1,5 @@
 # 3D-RayCast
-A 3D ray casting application with C++. Might add working robots to the scene in the future. 
+A 3D ray casting application made with C++ and SFML GUI library. Might add working robots to the scene in the future. 
 
 Controls: 
 Move camera: WASD
